@@ -1,0 +1,1 @@
+{"t": "00:44:09", "cell": [0, 0], "dir": "N", "gimbal_pitch": -15.0, "result": null, "votes": {}, "seen": {"blue": {"sightings": 3, "above_horizon": 3, "nearest": null}, "yellow": {"sightings": 5, "above_horizon": 0, "nearest": [0.64, 0.03]}}, "track_hits": {"blue": [], "yellow": []}, "wall_check": null, "image": "004409_c00_N.jpg", "raw_image": "004409_c00_N_raw.jpg"}

@@ -1,0 +1,12 @@
+{"t": "12:26:36", "cell": [2, 3], "dir": "N", "gimbal_pitch": -15.0, "result": null, "votes": {}, "seen": {}, "image": "122636_c23_N.jpg"}
+{"t": "12:26:37", "cell": [2, 3], "dir": "E", "gimbal_pitch": -15.0, "result": null, "votes": {}, "seen": {}, "image": "122637_c23_E.jpg"}
+{"t": "12:26:38", "cell": [2, 3], "dir": "S", "gimbal_pitch": -15.0, "result": null, "votes": {}, "seen": {}, "image": "122638_c23_S.jpg"}
+{"t": "12:26:43", "cell": [2, 4], "dir": "W", "gimbal_pitch": -15.0, "result": null, "votes": {}, "seen": {"blue": {"sightings": 14, "above_horizon": 8, "nearest": [0.53, -0.01]}}, "image": "122643_c24_W.jpg"}
+{"t": "12:26:44", "cell": [2, 4], "dir": "N", "gimbal_pitch": -15.0, "result": null, "votes": {}, "seen": {}, "image": "122644_c24_N.jpg"}
+{"t": "12:26:46", "cell": [2, 4], "dir": "E", "gimbal_pitch": -15.0, "result": ["red", "rect", 0.735, -0.076], "votes": {"red": 5}, "seen": {"red": {"sightings": 5, "above_horizon": 0, "nearest": [0.74, -0.08]}}, "image": "122646_c24_E.jpg"}
+{"t": "12:26:50", "cell": [2, 5], "dir": "W", "gimbal_pitch": -15.0, "result": null, "votes": {}, "seen": {"blue": {"sightings": 5, "above_horizon": 5, "nearest": null}}, "image": "122650_c25_W.jpg"}
+{"t": "12:26:58", "cell": [1, 5], "dir": "S", "gimbal_pitch": -15.0, "result": null, "votes": {}, "seen": {"blue": {"sightings": 7, "above_horizon": 2, "nearest": [1.46, 0.55]}}, "image": "122658_c15_S.jpg"}
+{"t": "12:27:02", "cell": [1, 5], "dir": "E", "gimbal_pitch": -15.0, "result": null, "votes": {}, "seen": {}, "image": "122702_c15_E.jpg"}
+{"t": "12:27:08", "cell": [1, 4], "dir": "S", "gimbal_pitch": -15.0, "result": null, "votes": {}, "seen": {"blue": {"sightings": 10, "above_horizon": 0, "nearest": [0.56, -0.01]}}, "image": "122708_c14_S.jpg"}
+{"t": "12:27:09", "cell": [1, 4], "dir": "N", "gimbal_pitch": -15.0, "result": null, "votes": {}, "seen": {"blue": {"sightings": 6, "above_horizon": 0, "nearest": [0.42, -0.33]}}, "image": "122709_c14_N.jpg"}
+{"t": "12:27:34", "cell": [2, 2], "dir": "E", "gimbal_pitch": -15.0, "result": null, "votes": {}, "seen": {"green": {"sightings": 5, "above_horizon": 5, "nearest": null}}, "image": "122734_c22_E.jpg"}
